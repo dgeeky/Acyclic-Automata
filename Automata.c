@@ -1,4 +1,4 @@
-#include "Automate.h"
+#include "Automata.h"
 #include <stdio.h>
 #include <malloc.h>
 #include <string.h>
